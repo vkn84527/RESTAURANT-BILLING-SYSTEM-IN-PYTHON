@@ -9,7 +9,7 @@ This is a simple GUI based application which is very easy to understand and use.
 
 
 # How To Run the Project?
-In order to run the project, you must have installed Python and on your PC. After downloading the project, follow the steps below:
+In order to run the project, you must have installed [Python](https://www.python.org/) and on your PC. After downloading the project, follow the steps below:
 
 # Step1: 
 Extract/Unzip the file
@@ -20,3 +20,5 @@ Go inside the project folder, then, double click the resbilling.py file and you 
 This is a simple Restaurant billing system application for beginners. Use for educational purposes only! For the project demo, have a look at the video below.
 
 [Watch_Video](https://www.youtube.com/watch?v=KanNnJxym6E&feature=emb_logo)
+
+[Download_Project](https://github.com/vkn84527/RESTAURANT-BILLING-SYSTEM-IN-PYTHON)
